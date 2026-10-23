@@ -24,6 +24,6 @@ https://github.com/husseindawod1/order-analytics-service
 
 | Team Member | Contributions / Role |
 |---|---|
-| Hussein | - Implemented the Analytics Service startup.<br>- Implemented the `/health` endpoint.<br>- Confirmed the RabbitMQ connection locally.<br>- Confirmed that orders were consumed from the RabbitMQ order queue locally.<br>- Implemented in-memory order storage.<br>- Implemented the `/analytics/orders` endpoint.<br>- Implemented the `/analytics/summary` endpoint. |
-| Peng | - Implemented the `/analytics/products` endpoint.<br>- Created the architecture diagram.<br>- Documented the deployment requirements. |
-| Justin | |
+| Hussein Dawod | - Implemented the Analytics Service startup.<br>- Implemented the `/health` endpoint.<br>- Confirmed the RabbitMQ connection locally.<br>- Confirmed that orders were consumed from the RabbitMQ order queue locally.<br>- Implemented in-memory order storage.<br>- Implemented the `/analytics/orders` endpoint.<br>- Implemented the `/analytics/summary` endpoint. |
+| Peng Wang | - Implemented the `/analytics/products` endpoint.<br>- Created the architecture diagram.<br>- Documented the deployment requirements. |
+| Justin Aroga | |
